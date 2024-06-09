@@ -1,0 +1,5 @@
+inflect~=7.2.1
+requests~=2.32.3
+emoji~=2.12.1
+pyfiglet~=1.0.2
+pytest~=8.2.2
