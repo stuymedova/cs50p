@@ -17,4 +17,5 @@ def main():
         print(prefix + p.join(names))
 
 
-main()
+if __name__ == '__main__':
+    main()

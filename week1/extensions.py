@@ -26,4 +26,5 @@ def get_media_type(filename):
 			return default_media_type
 
 
-main()
+if __name__ == '__main__':
+	main()

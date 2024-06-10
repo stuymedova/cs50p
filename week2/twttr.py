@@ -12,4 +12,5 @@ def is_vowel(char):
     return char.lower() in vowels
 
 
-main()
+if __name__ == '__main__':
+    main()

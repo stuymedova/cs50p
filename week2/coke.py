@@ -10,4 +10,5 @@ def main():
     print('Change Owed:', abs(rest_coins))
 
 
-main()
+if __name__ == '__main__':
+    main()

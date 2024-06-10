@@ -14,4 +14,5 @@ def main():
         print(dict[key], key)
 
 
-main()
+if __name__ == '__main__':
+    main()

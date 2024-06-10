@@ -41,4 +41,5 @@ def are_digits(str, start, end):
     return True
 
 
-main()
+if __name__ == '__main__':
+    main()

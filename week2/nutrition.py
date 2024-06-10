@@ -28,4 +28,5 @@ def main():
 		print('Calories:', nutrition_facts[item])
 
 
-main()
+if __name__ == '__main__':
+	main()

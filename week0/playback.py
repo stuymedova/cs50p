@@ -3,4 +3,5 @@ def main():
 	print(str.replace(' ', '...'))
 
 
-main()
+if __name__ == '__main__':
+	main()

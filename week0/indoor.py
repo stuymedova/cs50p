@@ -3,4 +3,5 @@ def main():
 	print(str.lower())
 
 
-main()
+if __name__ == '__main__':
+	main()

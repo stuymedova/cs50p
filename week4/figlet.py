@@ -20,4 +20,5 @@ def main():
     print(figlet.renderText(str))
 
 
-main()
+if __name__ == '__main__':
+    main()

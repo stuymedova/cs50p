@@ -9,4 +9,5 @@ def main():
     print('snake_case:', res)
 
 
-main()
+if __name__ == '__main__':
+    main()

@@ -6,4 +6,5 @@ def main():
     print(emojize(str))
 
 
-main()
+if __name__ == '__main__':
+    main()
